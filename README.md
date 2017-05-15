@@ -10,14 +10,14 @@ The program will output their gross along with a list of deductions along with a
 
 Employee location: Ireland
 
-Gross Amount: €x
+- Gross Amount: €x
 
 Less deductions
 
-Income Tax : €x
-Universal Social Charge: €x
-Pension: €x
-Net Amount: €x
+- Income Tax : €x
+- Universal Social Charge: €x
+- Pension: €x
+- Net Amount: €x
 
 
 Requirements
