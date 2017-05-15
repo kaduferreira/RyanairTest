@@ -1,0 +1,7 @@
+D:\GitHub\kaduferreira\RyanairInterview\RyanairInterview.Business\obj\Debug\RyanairInterview.Business.csprojResolveAssemblyReference.cache
+D:\GitHub\kaduferreira\RyanairInterview\RyanairInterview.Business\bin\Debug\RyanairInterview.Business.dll
+D:\GitHub\kaduferreira\RyanairInterview\RyanairInterview.Business\bin\Debug\RyanairInterview.Business.pdb
+D:\GitHub\kaduferreira\RyanairInterview\RyanairInterview.Business\bin\Debug\RyanairInterview.Domain.dll
+D:\GitHub\kaduferreira\RyanairInterview\RyanairInterview.Business\bin\Debug\RyanairInterview.Domain.pdb
+D:\GitHub\kaduferreira\RyanairInterview\RyanairInterview.Business\obj\Debug\RyanairInterview.Business.dll
+D:\GitHub\kaduferreira\RyanairInterview\RyanairInterview.Business\obj\Debug\RyanairInterview.Business.pdb

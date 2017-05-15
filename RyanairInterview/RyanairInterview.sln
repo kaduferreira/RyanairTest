@@ -1,0 +1,50 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26430.4
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RyanairInterview.App", "RyanairInterview.App\RyanairInterview.App.csproj", "{2B9CEC45-71AA-496A-AEAF-D88AF36C0208}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Application", "Application", "{86763F0B-4609-49AA-B6D9-C31F2AE50A23}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Test", "Test", "{D6985B2C-F186-4700-BB79-808993CA75B3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RyanairInterview.Business", "RyanairInterview.Business\RyanairInterview.Business.csproj", "{C7A0001C-847A-4052-8D1D-242CCAF78D16}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RyanairInterview.Domain", "RyanairInterview.Domain\RyanairInterview.Domain.csproj", "{E5CBE687-A049-49B5-94A5-9AE98CD10BE7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RyanairInterview.Test", "RyanairInterview.Test\RyanairInterview.Test.csproj", "{25EF41E4-FF3A-4BCF-906A-0661633C22F9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2B9CEC45-71AA-496A-AEAF-D88AF36C0208}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2B9CEC45-71AA-496A-AEAF-D88AF36C0208}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2B9CEC45-71AA-496A-AEAF-D88AF36C0208}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2B9CEC45-71AA-496A-AEAF-D88AF36C0208}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C7A0001C-847A-4052-8D1D-242CCAF78D16}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C7A0001C-847A-4052-8D1D-242CCAF78D16}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C7A0001C-847A-4052-8D1D-242CCAF78D16}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C7A0001C-847A-4052-8D1D-242CCAF78D16}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E5CBE687-A049-49B5-94A5-9AE98CD10BE7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E5CBE687-A049-49B5-94A5-9AE98CD10BE7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E5CBE687-A049-49B5-94A5-9AE98CD10BE7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E5CBE687-A049-49B5-94A5-9AE98CD10BE7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{25EF41E4-FF3A-4BCF-906A-0661633C22F9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{25EF41E4-FF3A-4BCF-906A-0661633C22F9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{25EF41E4-FF3A-4BCF-906A-0661633C22F9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{25EF41E4-FF3A-4BCF-906A-0661633C22F9}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{2B9CEC45-71AA-496A-AEAF-D88AF36C0208} = {86763F0B-4609-49AA-B6D9-C31F2AE50A23}
+		{C7A0001C-847A-4052-8D1D-242CCAF78D16} = {86763F0B-4609-49AA-B6D9-C31F2AE50A23}
+		{E5CBE687-A049-49B5-94A5-9AE98CD10BE7} = {86763F0B-4609-49AA-B6D9-C31F2AE50A23}
+		{25EF41E4-FF3A-4BCF-906A-0661633C22F9} = {D6985B2C-F186-4700-BB79-808993CA75B3}
+	EndGlobalSection
+EndGlobal

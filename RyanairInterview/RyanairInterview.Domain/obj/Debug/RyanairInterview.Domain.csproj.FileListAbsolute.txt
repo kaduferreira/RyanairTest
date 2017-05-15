@@ -1,0 +1,4 @@
+D:\GitHub\kaduferreira\RyanairInterview\RyanairInterview.Domain\bin\Debug\RyanairInterview.Domain.dll
+D:\GitHub\kaduferreira\RyanairInterview\RyanairInterview.Domain\bin\Debug\RyanairInterview.Domain.pdb
+D:\GitHub\kaduferreira\RyanairInterview\RyanairInterview.Domain\obj\Debug\RyanairInterview.Domain.dll
+D:\GitHub\kaduferreira\RyanairInterview\RyanairInterview.Domain\obj\Debug\RyanairInterview.Domain.pdb
